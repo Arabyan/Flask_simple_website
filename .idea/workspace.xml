@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf33c97d-5815-47b5-aa01-b407c18173f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/easy-install.pth" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/easy-install.pth" afterDir="false" />
-    </list>
+    <list default="true" id="cf33c97d-5815-47b5-aa01-b407c18173f0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/test_auth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="43" column="65" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
+            <state relative-caret-position="42">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -164,10 +162,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="438" />
-    <option name="y" value="27" />
+    <option name="x" value="614" />
+    <option name="y" value="67" />
     <option name="width" value="1161" />
-    <option name="height" value="412" />
+    <option name="height" value="448" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -225,8 +223,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="438" y="27" width="1161" height="412" extended-state="0" />
-    <editor active="true" />
+    <frame x="598" y="70" width="1161" height="412" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17047451" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -239,7 +236,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.09771987" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5407166" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -397,8 +394,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_auth.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="43" column="65" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
+        <state relative-caret-position="42">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
